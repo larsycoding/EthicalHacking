@@ -8,6 +8,6 @@
 
 {% embed url="https://www.youtube.com/watch?v=_u8qTN3cCnQ" %}
 
-Playlist i got it from
+Playlist
 
 {% embed url="https://youtube.com/playlist?list=PLIhvC56v63IIJZRa3lzK6IeBQOH_VFjUQ&si=rRmHrFAUcHm65bq4" %}
